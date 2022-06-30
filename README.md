@@ -1,3 +1,3 @@
-# static-websit-on-S3
+# static-website-on-S3
 
 
